@@ -1,0 +1,4 @@
+- name: Configure AWS
+  hosts: all
+  roles:
+    - Windows-2022_CIS
